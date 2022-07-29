@@ -7,14 +7,14 @@ const SocialLinks = () => {
   return (
     <Wrapper>
       <a
-        href="https://www.linkedin.com/in/ricardo-deleon/"
+        href="https://www.linkedin.com/in/maximiliano-godoy/"
         target="_blank"
         rel="noopener noreferrer"
       >
         <FontAwesomeIcon icon={faLinkedin} size="2x" color="#0072b1" />
       </a>
       <a
-        href="https://github.com/richidoes"
+        href="https://github.com/maaximiliano99"
         target="_blank"
         rel="noopener noreferrer"
       >

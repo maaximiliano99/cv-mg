@@ -10,7 +10,7 @@ interface AppProps {
 const DownloadButton: React.FC<AppProps> = ({ title, subtitle }) => {
   return (
     <Link
-      href="https://drive.google.com/uc?export=download&id=15WSMScOtAdpaciqN7s6Ir5kpj91YvTAv"
+      href="https://drive.google.com/u/0/uc?id=1bZ2U4aAb9QU-oQzZjb-RK8lAnHZgUrnU&export=download"
       target="_blank"
       rel="noopener noreferrer"
     >

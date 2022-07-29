@@ -19,7 +19,7 @@ const FooterSection = () => {
           Desarrollado en
           <img src="images/logos/gatsby-logo.svg" alt="gatsby logo" />
           <img src="images/logos/logo-react.svg" alt="react logo" />
-          by Maximiliano Godoy
+          by Maximiliano Godoy  
           {year}
         </Info>
       </ContentWrapper>
